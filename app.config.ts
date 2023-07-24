@@ -9,9 +9,9 @@ export default defineAppConfig({
       github: "ATOM36/EfLight",
     },
     github: {
-      dir: "EfLight",
+      dir: "eflight-docs",
       branch: "main",
-      repo: "EfLight",
+      repo: "eflight-docs",
       owner: "ATOM36",
       edit: true,
     },
