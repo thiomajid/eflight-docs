@@ -6,13 +6,13 @@ export default defineAppConfig({
     image: "./public/cover.png",
     socials: {
       twitter: "ThioMajid",
-      github: "ATOM36/EfLight",
+      github: "thiomajid/EfLight",
     },
     github: {
       dir: "eflight-docs",
       branch: "main",
       repo: "eflight-docs",
-      owner: "ATOM36",
+      owner: "thiomajid",
       edit: true,
     },
     aside: {
