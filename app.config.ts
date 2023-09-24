@@ -10,7 +10,7 @@ export default defineAppConfig({
     },
     github: {
       dir: "eflight-docs",
-      branch: "main",
+      branch: "master",
       repo: "eflight-docs",
       owner: "thiomajid",
       edit: true,
